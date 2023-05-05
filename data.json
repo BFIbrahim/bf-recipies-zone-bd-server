@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "chefPicture": "https://img.freepik.com/free-photo/handsome-young-cook-uniform-pointing_171337-5332.jpg",
+        "chefName": "John Smith",
+        "yearsOfExperience": 10,
+        "numRecipes": 50,
+        "likes": 1000
+    },
+    {
+        "id": 2,
+        "chefPicture": "https://img.freepik.com/free-photo/pleased-young-handsome-cook-chef-uniform-standing-profile-view-holding-rolling-pin-isolated-white-space_141793-44706.jpg?w=360",
+        "chefName": "Jane Doe",
+        "yearsOfExperience": 8,
+        "numRecipes": 75,
+        "likes": 2000
+    },
+    {
+        "id": 3,
+        "chefPicture": "https://img.freepik.com/free-photo/smiling-young-chef-holding-fresh-green-broccoli-red-bell-pepper-his-hand_23-2147863841.jpg?w=2000",
+        "chefName": "Tom Brown",
+        "yearsOfExperience": 15,
+        "numRecipes": 100,
+        "likes": 5000
+    },
+    {
+        "id": 4,
+        "chefPicture": "https://img.freepik.com/free-photo/confident-young-male-cook-wearing-chef-uniform-showing-okey-gesture-isolated-white-wall-with-copy-space_141793-36425.jpg?w=360",
+        "chefName": "Linda Lee",
+        "yearsOfExperience": 6,
+        "numRecipes": 25,
+        "likes": 750
+    },
+    {
+        "id": 5,
+        "chefPicture": "https://img.freepik.com/free-photo/male-chef-cook-pointing-index-finger-cake-hat-uniform_176474-9081.jpg",
+        "chefName": "David Nguyen",
+        "yearsOfExperience": 12,
+        "numRecipes": 80,
+        "likes": 3000
+    },
+    {
+        "id": 6,
+        "chefPicture": "https://img.freepik.com/free-photo/chef-pointing-front-white-background_1368-6074.jpg?w=2000",
+        "chefName": "Emily Johnson",
+        "yearsOfExperience": 4,
+        "numRecipes": 20,
+        "likes": 500
+    }
+]
